@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.env
+dados/
+exports/
+*.pfx
+*.p12
+*.pem
+*.key
+
+
+build/
+dist/
